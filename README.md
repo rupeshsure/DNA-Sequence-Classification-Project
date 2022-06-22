@@ -1,5 +1,5 @@
 # Abstract
-—Deoxyribo Nucleic Acid (DNA) is a unique
+Deoxyribo Nucleic Acid (DNA) is a unique
 macromolecule of all living species. It passes on the hereditary
 data of life. Artificial Intelligence can be used to classify the DNA
 class based on the sequence, as it can reduce the time taken and
