@@ -1,0 +1,15 @@
+0	"		cgcgactacgatgagatgcctgagtgcttccgttactggattgtcaccaaggcttcc"	
+0	"		ctcgtcctcaatggcctctaaacgggtcttgaggggttttttgctgaaaggaggaac"	
+0	"		taacattaataaataaggaggctctaatggcactcattagccaatcaatcaagaact"	
+
+
+
+
+1	"		ccatcaaaaaaatattctcaacataaaaaactttgtgtaatacttgtaacgctacat"
+1	"		tggggacgtcgttactgatccgcacgtttatgatatgctatcgtactctttagcgag"
+1	"	tcagaaatattatggtgatgaactgtttttttatccagtataatttgttggcataat"
+
+
+
+
+		
