@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/92075957/176202431-965a2a5e-3898-4410-85f7-1bfe6f116afc.PNG)
 # Abstract
 Deoxyribo Nucleic Acid (DNA) is a unique
 macromolecule of all living species. It passes on the hereditary
